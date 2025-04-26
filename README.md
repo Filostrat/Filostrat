@@ -14,7 +14,7 @@
 ---
 
 ## ‍ About Me
-Passionate .NET developer with a solid foundation in Clean Architecture and SOLID principles. Experienced in designing scalable microservices, desktop applications using WPF/Avalonia, and robust Web APIs. Committed to delivering high-quality, maintainable code and fostering collaborative team environments.
+Passionate .NET developer with a solid foundation in Clean Architecture and SOLID principles. Experienced in designing scalable microservices, desktop applications using WPF/Avalonia, and robust Web APIs.
 
 ---
 
@@ -39,17 +39,17 @@ Passionate .NET developer with a solid foundation in Clean Architecture and SOLI
 ## 🛠 Technologies & Tools
 <p align="center">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" height="40" />
-  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=aspdotnet&logoColor=white" height="40" />
-  <img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?logo=windows&logoColor=white" height="40" />
-  <img alt="Avalonia" src="https://img.shields.io/badge/Avalonia-004BA8?logo=avalonia&logoColor=white" height="40" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="40" />
-  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" height="40" />
-  <img alt="MS SQL" src="https://img.shields.io/badge/MS_SQL-CC2927?logo=microsoftsqlserver&logoColor=white" height="40" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="40" />
-  <img alt="Entity Framework Core" src="https://img.shields.io/badge/EF_Core-512BD4?logo=entityframework&logoColor=white" height="40" />
-  <img alt="MediatR" src="https://img.shields.io/badge/MediatR-0078D4?logo=mediatr&logoColor=white" height="40" />
-  <img alt="REST API" src="https://img.shields.io/badge/REST_API-61DAFB?logo=rest&logoColor=white" height="40" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="40" />
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white" height="40" />
+  <img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" height="40" />
+  <img alt="Avalonia" src="https://img.shields.io/badge/Avalonia-004BA8?style=for-the-badge&logo=avalonia&logoColor=white" height="40" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="40" />
+  <img alt="MS SQL" src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="40" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40" />
+  <img alt="Entity Framework Core" src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=entityframework&logoColor=white" height="40" />
+  <img alt="MediatR" src="https://img.shields.io/badge/MediatR-0078D4?style=for-the-badge&logo=mediatr&logoColor=white" height="40" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge&logo=rest&logoColor=white" height="40" />
 </p>
 
 ---

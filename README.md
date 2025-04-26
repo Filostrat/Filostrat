@@ -54,10 +54,10 @@ Passionate .NET developer with a solid foundation in Clean Architecture and SOLI
 
 ---
 
-## 📫 Contact
-- ✉️ **Email:** [maxmatvienko26@gmail.com](mailto:maxmatvienko26@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/max-matvienko-642b30295](https://www.linkedin.com/in/max-matvienko-642b30295/)
-- 📱 **Telegram:** [Fillostrat](https://t.me/Fillostrat)
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxmatvienko26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-matvienko-642b30295/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fillostrat)
 
 ---
 

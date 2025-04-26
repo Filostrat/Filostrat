@@ -13,7 +13,7 @@
 
 ---
 
-## ‍ About Me
+## 👨‍💻 About Me
 Passionate .NET developer with a solid foundation in Clean Architecture and SOLID principles. Experienced in designing scalable microservices, desktop applications using WPF/Avalonia, and robust Web APIs.
 
 ---

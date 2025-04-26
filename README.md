@@ -9,7 +9,7 @@
 2. [Experience](#-experience)
 3. [Education](#-education)
 4. [Technologies & Tools](#-technologies--tools)
-5. [Contact](#-contact)
+5. [Contact Me](#-contact-Me)
 
 ---
 
@@ -30,7 +30,6 @@ Passionate .NET developer with a solid foundation in Clean Architecture and SOLI
 ## 🎓 Education
 
 **B.Sc. in Computer Science**, Igor Sikorsky Kyiv Polytechnic Institute — _2021 – 2025_
-- Relevant coursework: Algorithms & Data Structures, Database Systems, Software Architecture.
 - Final-year project: [LifeLink](https://github.com/Filostrat/LifeLink) — 
   ASP.NET Core 9-based web application using Web API, Entity Framework Core for database access, Clean Architecture for structured organization, MediatR for CQRS implementation, Kafka for asynchronous communication, Docker for containerization, JWT Bearer authentication, and FluentValidation for input validation.
 

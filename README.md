@@ -37,6 +37,7 @@ Passionate .NET developer with a solid foundation in Clean Architecture and SOLI
 
 ## 🛠 Technologies & Tools
 <p align="center">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="40" />
   <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white" height="40" />
   <img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" height="40" />

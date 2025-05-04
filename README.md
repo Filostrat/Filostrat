@@ -37,7 +37,6 @@ Passionate .NET developer with a solid foundation in Clean Architecture and SOLI
 
 ## 🛠 Technologies & Tools
 <p align="center">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="40" />
   <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white" height="40" />
   <img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" height="40" />
@@ -49,6 +48,8 @@ Passionate .NET developer with a solid foundation in Clean Architecture and SOLI
   <img alt="Entity Framework Core" src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=entityframework&logoColor=white" height="40" />
   <img alt="MediatR" src="https://img.shields.io/badge/MediatR-0078D4?style=for-the-badge&logo=mediatr&logoColor=white" height="40" />
   <img alt="REST API" src="https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge&logo=rest&logoColor=white" height="40" />
+  <img alt="gRPC" src="https://img.shields.io/badge/gRPC-339966?style=for-the-badge&logo=grpc&logoColor=white" height="40" />
+  <img alt="SignalR" src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=signalr&logoColor=white" height="40" />
 </p>
 
 ---
